@@ -1,6 +1,7 @@
 # logicz
 
-A new Flutter project.
+This App consists of all basic gates like NOT, AND, OR etc.
+
 
 ## Getting Started
 
